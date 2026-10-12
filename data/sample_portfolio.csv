@@ -1,0 +1,9 @@
+ticker,weight,asset_class,name
+ENI.MI,12,Equity,Eni (Italian energy)
+ISP.MI,12,Equity,Intesa Sanpaolo (Italian bank)
+ENEL.MI,8,Equity,Enel (Italian utility)
+G.MI,8,Equity,Generali (Italian insurer)
+SWDA.MI,20,Equity,iShares Core MSCI World ETF
+CSSPX.MI,15,Equity,iShares Core S&P 500 ETF
+AGGH.MI,20,Government bond,iShares Core Global Aggregate Bond EUR Hedged ETF
+SGLD.MI,5,Commodity,Invesco Physical Gold ETC

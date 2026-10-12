@@ -1,0 +1,9 @@
+ticker,weight,asset_class
+SYN_ITA_ENERGY,12,Equity
+SYN_ITA_BANK,12,Equity
+SYN_ITA_UTILITY,8,Equity
+SYN_ITA_INSUR,8,Equity
+SYN_WORLD_EQ,20,Equity
+SYN_US_EQ,15,Equity
+SYN_GLOBAL_BOND,20,Government bond
+SYN_GOLD,5,Commodity

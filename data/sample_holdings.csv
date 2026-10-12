@@ -1,0 +1,30 @@
+fund,holding,weight
+SWDA.MI,Apple,4.6
+SWDA.MI,Nvidia,4.8
+SWDA.MI,Microsoft,4.3
+SWDA.MI,Amazon,2.7
+SWDA.MI,Alphabet,3.3
+SWDA.MI,Meta Platforms,1.8
+SWDA.MI,Broadcom,1.6
+SWDA.MI,Tesla,1.3
+SWDA.MI,JPMorgan Chase,0.9
+SWDA.MI,Eli Lilly,0.7
+SWDA.MI,Visa,0.6
+SWDA.MI,Exxon Mobil,0.5
+SWDA.MI,ASML,0.5
+SWDA.MI,ISP.MI,0.10
+SWDA.MI,ENEL.MI,0.08
+SWDA.MI,G.MI,0.06
+SWDA.MI,ENI.MI,0.05
+CSSPX.MI,Apple,6.6
+CSSPX.MI,Nvidia,7.0
+CSSPX.MI,Microsoft,6.2
+CSSPX.MI,Amazon,3.9
+CSSPX.MI,Alphabet,4.7
+CSSPX.MI,Meta Platforms,2.6
+CSSPX.MI,Broadcom,2.3
+CSSPX.MI,Tesla,1.9
+CSSPX.MI,JPMorgan Chase,1.3
+CSSPX.MI,Eli Lilly,1.0
+CSSPX.MI,Visa,0.9
+CSSPX.MI,Exxon Mobil,0.8
