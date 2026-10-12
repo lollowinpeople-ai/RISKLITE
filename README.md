@@ -14,7 +14,7 @@ RiskLite takes a portfolio of stocks and ETFs and answers, with tested and docum
   contributions and correlations.
 * **What do I actually own?** ETF look-through and fund-to-fund overlap.
 
-🔗 **Live app:** `https://<your-app>.streamlit.app` *(add after deploying, see below)*
+🔗 **Live app:** <https://risklite-nicodemo.streamlit.app>
 
 ![screenshot](docs/screenshot.png)
 
