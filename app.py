@@ -428,6 +428,6 @@ with tabs[6]:
 st.divider()
 st.caption(f"RiskLite {__version__} · Descriptive analysis of historical data, not investment advice. "
            "Past risk does not guarantee future risk. Methodology: docs/METHODOLOGY.md")
-st.caption("School project by Lorenzo Nicodemo, for educational purposes only. Market data from Yahoo "
-           "Finance, provided without warranty. Progetto scolastico a fini didattici: non costituisce "
+st.caption("Personal project by Lorenzo Nicodemo, for informational purposes only. Market data from Yahoo "
+           "Finance, provided without warranty. Progetto personale a scopo informativo: non costituisce "
            "consulenza finanziaria. © 2026 Lorenzo Nicodemo, MIT License.")

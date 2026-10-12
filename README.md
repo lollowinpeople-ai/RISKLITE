@@ -18,8 +18,8 @@ RiskLite takes a portfolio of stocks and ETFs and answers, with tested and docum
 
 ![screenshot](docs/screenshot.png)
 
-> RiskLite is a school project by Lorenzo Nicodemo. It describes historical risk for educational
-> purposes and does not give investment advice. See [Disclaimer](#disclaimer).
+> RiskLite is a personal project by Lorenzo Nicodemo. It describes historical risk for
+> informational purposes and does not give investment advice. See [Disclaimer](#disclaimer).
 
 ---
 
@@ -141,7 +141,7 @@ limitations and its academic references:
 
 ## Disclaimer
 
-**English.** RiskLite is a school project, built for educational purposes only. Nothing in
+**English.** RiskLite is a personal, non-commercial project, for informational purposes only. Nothing in
 this repository, in the app or in the case study is investment advice, a recommendation or
 an offer to buy or sell any financial instrument. Results describe the past and do not
 predict future returns or losses. Market data comes from third parties (Yahoo Finance) and
@@ -149,7 +149,7 @@ may be incomplete or wrong; all rights to that data remain with its owners. The 
 provided "as is", without warranty of any kind, and the author accepts no liability for any
 use of it or for decisions based on it. Before investing, consult a qualified professional.
 
-**Italiano.** RiskLite è un progetto scolastico realizzato a soli fini didattici. Nulla di
+**Italiano.** RiskLite è un progetto personale, senza fini commerciali, a solo scopo informativo. Nulla di
 quanto contenuto in questo repository, nell'app o nel case study costituisce consulenza
 finanziaria, raccomandazione o sollecitazione all'acquisto o alla vendita di strumenti
 finanziari. I risultati descrivono il passato e non sono una previsione di rendimenti o
