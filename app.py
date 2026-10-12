@@ -430,4 +430,4 @@ st.caption(f"RiskLite {__version__} · Descriptive analysis of historical data, 
            "Past risk does not guarantee future risk. Methodology: docs/METHODOLOGY.md")
 st.caption("Personal project by Lorenzo Nicodemo, for informational purposes only. Market data from Yahoo "
            "Finance, provided without warranty. Progetto personale a scopo informativo: non costituisce "
-           "consulenza finanziaria. © 2026 Lorenzo Nicodemo, MIT License.")
+           "consulenza finanziaria. © 2026 Lorenzo Nicodemo, PolyForm Noncommercial License 1.0.0.")

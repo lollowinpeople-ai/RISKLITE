@@ -161,4 +161,15 @@ Prima di investire, rivolgersi a un professionista abilitato.
 
 ## License
 
-MIT © 2026 Lorenzo Nicodemo. See [LICENSE](LICENSE).
+© 2026 Lorenzo Nicodemo. Released under the
+[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)
+(full text in [LICENSE](LICENSE)).
+
+You may read, run, study and modify RiskLite for personal, study, research or other
+noncommercial purposes, as long as you keep the copyright notice and credit the author.
+**Any commercial use** (selling it, including it in a paid product or service, or using it
+in a business) **requires the author's written permission.**
+
+*Puoi leggere, usare, studiare e modificare RiskLite per scopi personali, di studio, di
+ricerca o comunque non commerciali, mantenendo l'indicazione del copyright e citando
+l'autore. **Qualsiasi uso commerciale richiede il permesso scritto dell'autore.***
