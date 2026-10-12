@@ -18,16 +18,16 @@ RiskLite takes a portfolio of stocks and ETFs and answers, with tested and docum
 
 ![screenshot](docs/screenshot.png)
 
-> RiskLite is an analytical tool that describes historical risk. It does not give investment
-> advice.
+> RiskLite is a school project by Lorenzo Nicodemo. It describes historical risk for educational
+> purposes and does not give investment advice. See [Disclaimer](#disclaimer).
 
 ---
 
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/risklite.git
-cd risklite
+git clone https://github.com/lollowinpeople-ai/RISKLITE.git
+cd RISKLITE
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements-dev.txt
 streamlit run app.py
@@ -139,6 +139,26 @@ limitations and its academic references:
 * Acerbi and Tasche (2002);
 * Tasche (2000).
 
+## Disclaimer
+
+**English.** RiskLite is a school project, built for educational purposes only. Nothing in
+this repository, in the app or in the case study is investment advice, a recommendation or
+an offer to buy or sell any financial instrument. Results describe the past and do not
+predict future returns or losses. Market data comes from third parties (Yahoo Finance) and
+may be incomplete or wrong; all rights to that data remain with its owners. The software is
+provided "as is", without warranty of any kind, and the author accepts no liability for any
+use of it or for decisions based on it. Before investing, consult a qualified professional.
+
+**Italiano.** RiskLite è un progetto scolastico realizzato a soli fini didattici. Nulla di
+quanto contenuto in questo repository, nell'app o nel case study costituisce consulenza
+finanziaria, raccomandazione o sollecitazione all'acquisto o alla vendita di strumenti
+finanziari. I risultati descrivono il passato e non sono una previsione di rendimenti o
+perdite futuri. I dati di mercato provengono da terzi (Yahoo Finance) e possono essere
+incompleti o errati; i diritti su tali dati restano dei rispettivi titolari. Il software è
+fornito "così com'è", senza garanzie di alcun tipo, e l'autore non si assume alcuna
+responsabilità per il suo utilizzo o per decisioni prese sulla base dei suoi risultati.
+Prima di investire, rivolgersi a un professionista abilitato.
+
 ## License
 
-MIT
+MIT © 2026 Lorenzo Nicodemo. See [LICENSE](LICENSE).
