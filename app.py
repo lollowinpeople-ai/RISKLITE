@@ -84,7 +84,7 @@ def default_portfolio(source: str) -> pd.DataFrame:
 with st.sidebar:
     st.markdown("### RiskLite")
     st.caption("Portfolio risk analytics. Analytical tool, not investment advice.")
-    source = st.radio("Price data", ["Demo data", "Yahoo Finance", "Upload CSV"],
+    source = st.radio("Price data", ["Demo data", "Yahoo Finance", "Upload CSV"], index=1,
                       help="Demo data is simulated and works offline. Yahoo Finance needs internet "
                            "access. CSV: first column dates, one column of prices per ticker.")
     upload_prices = None
@@ -149,7 +149,9 @@ try:
             st.info("Upload a prices CSV in the sidebar, or switch to Demo data."); st.stop()
         data = load_prices_csv(upload_prices)
 except Exception as e:  # network errors, bad files
-    st.error(f"Could not load prices: {e}"); st.stop()
+    hint = (" Yahoo Finance sometimes limits requests: wait a few minutes and reload, or pick "
+            "Demo data in the sidebar." if source == "Yahoo Finance" else "")
+    st.error(f"Could not load prices: {e}{hint}"); st.stop()
 
 prices = data.prices.loc[pd.Timestamp(start):] if source != "Yahoo Finance" else data.prices
 missing = [t for t in weights if t not in prices.columns]

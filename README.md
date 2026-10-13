@@ -33,9 +33,9 @@ pip install -r requirements-dev.txt
 streamlit run app.py
 ```
 
-The app opens on simulated **demo data**, so it works offline. To use real prices, pick
-**Yahoo Finance** in the sidebar (Milan tickers end in `.MI`, e.g. `ENI.MI`), or upload a
-CSV of prices.
+The app opens on real **Yahoo Finance** prices for the sample portfolio in
+`data/sample_portfolio.csv` (Milan tickers end in `.MI`, e.g. `ENI.MI`). To work offline, pick
+**Demo data** (simulated prices) in the sidebar, or upload a CSV of prices.
 
 ## Project structure
 
