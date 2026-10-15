@@ -26,7 +26,7 @@ RiskLite takes a portfolio of stocks and ETFs and answers, with tested and docum
 ## Quick start
 
 ```bash
-git clone https://github.com/lollowinpeople/RISKLITE.git
+git clone https://github.com/lollowinpeople-ai/RISKLITE.git
 cd RISKLITE
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements-dev.txt
